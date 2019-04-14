@@ -1,0 +1,8 @@
+{
+  "name": "go-organic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "db5530a5"
+}
